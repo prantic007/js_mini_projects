@@ -1,0 +1,40 @@
+body{
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.outer{
+    height: 400px;
+    width: 400px;
+}
+
+.inner{
+    display: flex;
+    justify-content: center;
+    align-items: cemter;
+}
+.button{
+    height: 40px;
+    width: 80px;
+    font-size: 18px;
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+    margin: 30px;
+}
+.count{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+.value{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    margin-top: 10px;
+}
