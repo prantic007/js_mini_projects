@@ -1,0 +1,46 @@
+
+body{
+   
+}
+.fst{
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #0a0908;
+    margin: 40px;
+    border: none;
+    border-radius: 20px;
+}
+.input{
+    
+    height: 50px;
+    width: 400px;
+   
+}
+
+.input input{
+    border: none;
+    outline: 0px;
+    font-size: 24px;
+}
+.copy{
+    height: 50px;
+    width: 100px;
+    border: none;
+    border-radius: 10px;
+    background-color: #ffb703;
+}   
+.gnt{
+    height: 50px;
+    width: 200px;
+    border: none;
+    border-radius: 15px;
+    background-color: #00f5d4;
+    font-size: 20px;
+}
+.scnd{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
